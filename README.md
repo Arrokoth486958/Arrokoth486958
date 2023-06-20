@@ -1,5 +1,5 @@
 ## Hey, I'm Arrokoth233
-I'm a Chinese lived in Germany and is 16 years old.
+I'm a Chinese but living in Germany and I'm 16 years old.
 
 One of my Primary project is Akiraka Minecraft Launcher (Or AkirakaMC/Akiraka)
 

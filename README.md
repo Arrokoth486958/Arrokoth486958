@@ -1,5 +1,4 @@
 ## Hey, I'm Arrokoth233
-Just a 16 years old boy. ;)
 
 One of my Primary project is Akiraka Minecraft Launcher (Or AkirakaMC/Akiraka)
 
